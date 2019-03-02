@@ -1,2 +1,2 @@
-# spring5-jokes-app
-A Chuck Norris jokes app made with Spring 5
+# Spring Boot Jokes App
+This Spring Boot web application displays a random Chuck Norris joke on the index.
